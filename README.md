@@ -10,5 +10,7 @@ then npm start or node server.js
 }
 else { 
 download node.js
-then repeat 8 and 9 line
+npm install
+then npm start or node server.js
+
 } 
